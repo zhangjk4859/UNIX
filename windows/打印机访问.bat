@@ -1,0 +1,1 @@
+net use\\192.168.1.62 "" /user:"guest"
